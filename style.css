@@ -1,1 +1,25 @@
+body {
+    background-color: rgb(110, 149, 172);
+    color:rgb(230, 158, 91);
+    font-family: Arial,sans-serif;
+}
+
+header{
+    background-color: rgb(57, 143, 255);
+    color:rgb(163, 79, 73);
+    text-align: center;
+    padding: 30px;
+}
+
+hl{
+    font-size: 36px;
+}
+
+h2 {
+    color:rgb(241, 191, 115);
+}
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
 
