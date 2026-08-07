@@ -11,15 +11,42 @@ header{
     padding: 30px;
 }
 
-hl{
+h1{
     font-size: 36px;
 }
 
 h2 {
     color:rgb(241, 191, 115);
 }
+
 p {
     font-size: 18px;
     line-height: 1.6;
 }
 
+main{
+    width:80%;
+    margin:auto;
+}
+
+section{
+    background-color:yellow;
+    margin: 20px 0;
+    padding: 20px;
+    boder-radius: 12px;
+}
+
+img{
+    widith: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+
+figcaption{
+    text-align: center;
+    font-size: 14px;
+    color: blue;
+    margin-top: 8px;
+}
