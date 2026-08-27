@@ -69,14 +69,14 @@ figcaption{
     margin-top: 8px;
 }
 
-card{
+.card{
     background-color:#FDFBF7;
     padding: 15px;
     margin: 15p 0;
     border-left: 6px solid #D4AF37;
     border-radius: 10px;
 }
-card h3{
+.card h3{
     margin-top: 0;
 }
 footer{
