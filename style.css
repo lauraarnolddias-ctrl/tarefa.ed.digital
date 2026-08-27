@@ -1,23 +1,23 @@
 body {
     background-color: #F4EBD9;
-    color:#2B2523;
-    font-family: Arial,sans-serif;
+    color: #2B2523;
+    font-family: Arial, sans-serif;
     margin: 0;
 }
 
-header{
+header {
     background-color: #E5C383;
-    color:#0A192F;
+    color: #0A192F;
     text-align: center;
     padding: 30px;
 }
 
-h1{
+h1 {
     font-size: 36px;
 }
 
 h2 {
-    color:#0F2C59;
+    color: #0F2C59;
 }
 
 p {
@@ -25,12 +25,12 @@ p {
     line-height: 1.6;
 }
 
-nav{
-    margin-top:20px,
+nav {
+    margin-top: 20px,
 }
 
-nav a{
-    color:#FFFFFF;
+nav a {
+    color: #FFFFFF;
     text-decoration: none;
     background-color: #0F2C59;
     padding: 10px 15px;
@@ -39,22 +39,24 @@ nav a{
     display: inline-block;
 
 }
-nav a:hover{
-    background-color:#D4AF37;
-}
-main{
-    width:80%;
-    margin:auto;
+
+nav a:hover {
+    background-color: #D4AF37;
 }
 
-section{
-    background-color:white;
+main {
+    width: 80%;
+    margin: auto;
+}
+
+section {
+    background-color: white;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
 }
 
-img{
+img {
     width: 100%;
     max-width: 600px;
     display: block;
@@ -62,27 +64,29 @@ img{
     border-radius: 12px;
 }
 
-figcaption{
+figcaption {
     text-align: center;
     font-size: 14px;
     color: #A0522D;
     margin-top: 8px;
 }
 
-.card{
-    background-color:#FDFBF7;
+.card {
+    background-color: #FDFBF7;
     padding: 15px;
     margin: 15p 0;
     border-left: 6px solid #D4AF37;
     border-radius: 10px;
 }
-.card h3{
+
+.card h3 {
     margin-top: 0;
 }
-footer{
-    background-color:#0A192F;
+
+footer {
+    background-color: #0A192F;
     color: white;
     text-align: center;
-    padding:20px;
+    padding: 20px;
     margin-top: 30px;
 }
